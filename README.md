@@ -1,6 +1,6 @@
 # Python Prisma
 
-Araya Jattawat
+suchet sucjaroen
 
 # Using it
 ```bash
